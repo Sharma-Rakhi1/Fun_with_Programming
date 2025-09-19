@@ -9,22 +9,14 @@ This space is dedicated to showcasing programming concepts through elegant, opti
 
 ### 1️⃣ [TimeComplexity Calculation in Milliseconds](TimeComplexity.java)
 
-Measure how long your function takes to execute — down to the millisecond.  
-This Java utility uses `System.nanoTime()` to benchmark any block of code, helping you analyze performance with precision.
-
-**Features:**
-- Plug-and-play structure for timing any function
+Measure how long your function takes to execute — down to the millisecond. Giving,
 - Clean and readable output
 - Ideal for comparing algorithmic efficiency
 
 ---
 
-## 🚧 Upcoming Additions
 
-Stay tuned for:
-- 🔄 Sorting visualizations with console animations
-- 🧠 Bitwise hacks for ultra-fast computations
-- 🧩 Interview-style problems with optimized solutions
-- 🎨 Console art from algorithmic patterns
+
+Stay tuned for Upcoming Additions ...
 
 ---
